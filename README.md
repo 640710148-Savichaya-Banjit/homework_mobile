@@ -1,5 +1,5 @@
-##homework_mobile
-
+#### `homework 1 :640710148 สวิขญา บาลจิตร์ `
+```dart
 import 'package:flutter/material.dart';
 
 void main() {
@@ -34,3 +34,7 @@ class MyApp extends StatelessWidget {
             )));
   }
 }
+
+
+
+```
